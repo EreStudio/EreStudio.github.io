@@ -3395,6 +3395,8 @@ input, select, textarea {
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
+			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-weight: 400;
 		}
 
 		#intro + #header {
